@@ -1,0 +1,23 @@
+[
+  {
+    "Title": "The Night Circus",
+    "Author": "Erin Morgenstern",
+    "Genre": "Fantasy",
+    "Rating": 5,
+    "Review": "Amazing book!"
+  },
+  {
+    "Title": "The Da Vinci Code",
+    "Author": "Dan Brown",
+    "Genre": "Thriller",
+    "Rating": 4,
+    "Review": "A masterpiece!"
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "Genre": "Fantasy",
+    "Rating": 5.0,
+    "Review": "It was really good"
+  }
+]
